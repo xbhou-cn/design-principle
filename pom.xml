@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>single-responsibility-principle</module>
+        <module>open-closed-principle</module>
     </modules>
     <packaging>pom</packaging>
     <dependencies>
