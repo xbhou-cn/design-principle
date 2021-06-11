@@ -10,6 +10,7 @@
     <modules>
         <module>single-responsibility-principle</module>
         <module>open-closed-principle</module>
+        <module>liskov-substitution-principle</module>
     </modules>
     <packaging>pom</packaging>
     <dependencies>
